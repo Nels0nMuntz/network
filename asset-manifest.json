@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/network/static/css/main.8554b09e.chunk.css",
+    "main.js": "/network/static/js/main.924ed892.chunk.js",
+    "main.js.map": "/network/static/js/main.924ed892.chunk.js.map",
+    "runtime-main.js": "/network/static/js/runtime-main.c038512e.js",
+    "runtime-main.js.map": "/network/static/js/runtime-main.c038512e.js.map",
+    "static/js/2.76a59007.chunk.js": "/network/static/js/2.76a59007.chunk.js",
+    "static/js/2.76a59007.chunk.js.map": "/network/static/js/2.76a59007.chunk.js.map",
+    "index.html": "/network/index.html",
+    "precache-manifest.4392faa10c43a3a1e31e098589cb8bbd.js": "/network/precache-manifest.4392faa10c43a3a1e31e098589cb8bbd.js",
+    "service-worker.js": "/network/service-worker.js",
+    "static/css/main.8554b09e.chunk.css.map": "/network/static/css/main.8554b09e.chunk.css.map",
+    "static/js/2.76a59007.chunk.js.LICENSE.txt": "/network/static/js/2.76a59007.chunk.js.LICENSE.txt",
+    "static/media/Login.module.css": "/network/static/media/auth.838994b0.jpg",
+    "static/media/friends-4.jpg": "/network/static/media/friends-4.f4de68e0.jpg",
+    "static/media/gallery-1.jpg": "/network/static/media/gallery-1.b6fe6cbb.jpg",
+    "static/media/gallery-2.jpg": "/network/static/media/gallery-2.5e1943a3.jpg",
+    "static/media/gallery-3.jpg": "/network/static/media/gallery-3.0c2af8d2.jpg",
+    "static/media/gallery-4.jpg": "/network/static/media/gallery-4.2764f84f.jpg",
+    "static/media/gallery-5.jpg": "/network/static/media/gallery-5.48ec25b8.jpg",
+    "static/media/gallery-6.jpg": "/network/static/media/gallery-6.1e6a75e6.jpg",
+    "static/media/gallery-7.jpg": "/network/static/media/gallery-7.87dcdbf1.jpg",
+    "static/media/gallery-8.jpg": "/network/static/media/gallery-8.543b3dbd.jpg",
+    "static/media/gallery-9.jpg": "/network/static/media/gallery-9.5c002171.jpg",
+    "static/media/post-large-1.jpg": "/network/static/media/post-large-1.0898ee28.jpg",
+    "static/media/profile-big-photo.jpg": "/network/static/media/profile-big-photo.86d68f14.jpg",
+    "static/media/HomeStatus.module.css": "/network/static/media/profile-status.1de59959.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c038512e.js",
+    "static/js/2.76a59007.chunk.js",
+    "static/css/main.8554b09e.chunk.css",
+    "static/js/main.924ed892.chunk.js"
+  ]
+}
